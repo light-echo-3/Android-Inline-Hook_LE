@@ -1,3 +1,5 @@
+来源：[Android inline hook 浅析](https://www.sunmoonblog.com/2019/07/15/inline-hook-basic/#Android-Inline-Hook-%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90)
+
 # Android-Inline-Hook
 thumb16 thumb32 arm32 inlineHook
 
